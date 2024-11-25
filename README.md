@@ -8,12 +8,24 @@
 ### Project Overview
 #### The importance of this dataset is to analyze adidas’ sales performance across different regions, retailers, and sales method in the US over a specific period (2020-2021). It aims to identify key trends, such as which regions or retailers drive the most sales, and highlight areas where performance can be improved. 
 
+
+## Adidas Interactive Sales Dashboard
+
+
+
+![Screenshot 2024-10-21 015921](https://github.com/user-attachments/assets/8022da64-f979-46fd-97c2-b60de30031bf)
+
+
+
+
 ### Data Source
 #### Sales Data: The primary dataset used for this analysis is the "" containing detailed information about each sales made by the company.
+
 
 ### Tools
  - #### Excel - Data cleaning, analysis and visualization [Download here](https://youtu.be/5eLtjO2Hfs0?si=1PGhKUuRtuWJKDbd)
  - #### Power Point - Presentation
+   
 
 ### Data Cleaning/Preparation
 
